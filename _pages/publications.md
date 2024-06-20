@@ -10,11 +10,47 @@ author_profile: true
 
 <b>Journal</b>
 ======
-*  <b>R. A. Lobos</b>, C.-C. Chan, J. P. Haldar.  <br>[New Theory and Faster Computations for Subspace-Based Sensitivity Map Estimation in Multichannel MRI](https://ieeexplore.ieee.org/document/10190117)<br><em> IEEE Transactions on Medical Imaging 43:286-296, 2024</em>.
+
+*  <b>A. M. Jacobson </b>, X. Zhao, S. Sommer, F. Sadik, S. Warden, C. Newman, T. Siegmund, M. R. Allen, R. K. Surowiec.  <br>A Comprehensive Set of
+Ultrashort Echo Time Magnetic Resonance Imaging Biomarkers to Assess Cortical Bone Health: A Feasibility Study at Clinical Field Strength
+(https://pubmed.ncbi.nlm.nih.gov/38311304/)<br><em> Bone, 2024</em>.
+
+* R. K. Surowiec, O. N. Reul, N. N. Chowdlhury, R. K. Rai, D. Segvich, A. A. Tomaschke, J. Damrath, <b>A. M. Jacobson </b>, M. A. Allen, J. M. Wallace.
+<br>Combining Raloxifene and Mechanical Loading Improves Bone Composition and Mechanical Properties in A Murine Model of Chronic Kidney Disease (CKD).
+(https://pubmed.ncbi.nlm.nih.gov/38575047/)<br><em> Bone, 2024</em>.
+
+* R. K. Surowiec, R. Saldivar, R. K. Rai, C. E. Metzger, <b>A. M. Jacobson </b>, M. R. Allen, J. M. Wallace. <br>Ex Vivo Exposure to Calcitonin or Raloxifene
+Improves Mechanical Properties of Diseased Bone Through Non-cell Mediated Mechanisms. (https://pubmed.ncbi.nlm.nih.gov/37196853/)<br><em> Bone, 2023</em>.
+
+* <b> A. M. Jacobson </b>, C. A. Tastad, A. Creecy, J. M. Wallace. <br>Combined Thermoneutral Housing and Raloxifene Treatment Improves Trabecular Bone
+Microarchitecture and Strength in Growing Female Mice. (https://pubmed.ncbi.nlm.nih.gov/36371724/)<br><em> Calcified Tissue International, 2023</em>.
 
 
 <b>Conference</b>
 ======
+* <b>A. M. Jacobson</b>, A. M. Murguia, S. D. Swanson, U. Scheven, J. Nielsen, J. A. Fessler, N. Seraji-Bozorgzad.
+<br>Characterizing Myelin Content in White Matter ADRD Tissue Samples With Combined Diffusion Relaxometry,
+Magnetization Transfer, and Multi-Echo Spin-Echo Sequences,<br><em> Michigan Alzheimer's Disease Research Center, 2024. - Poster</em>.
 
-* <b>R. A. Lobos</b>, C.-C. Chan, J. P. Haldar.  <br>[New Theory and Faster Computations for Subspace-Based Sensitivity Map Estimation.](https://ralobos.github.io)<br><em>International Society for Magnetic Resonance in Medicine Virtual Conference & Exhibition, 2023. (In press).</em>
+* <b>A. M. Jacobson</b>, C. Newman, T. Siegmund, M. R. Allen, R. K. Surowiec.  <br>An MRI-based Approach for
+Characterizing Bone Mineral Density and Cortical Porosity: Comparing Ultrashort Echo Time MRI
+with HR-pQCT, <br><em> Biomedical Engineering Society, 2023. - Conference Talk</em>.
+
+* <b>A. M. Jacobson</b>, C. Newman, T. Siegmund, M. R. Allen, R. K. Surowiec. <br>An MRI-based Approach for
+Characterizing Bone Mineral Density and Cortical Porosity: Comparing Ultrashort Echo Time MRI with HR-pQCT,
+ (https://www.asbmr.org/meetings/2023-abstracts)<br><em> American Society of Bone and Mineral Research, 2023 - Poster</em>.
+
+* <b>A. M. Jacobson</b>, A. Sventeckis, M. Kuczynski, R. K. Surowiec. <br>Custom MATLAB Registration Script for
+Stack Shift Correction of Multistack HR-pqCT Scans of the Metatarsals,
+(https://www.asbmr.org/meetings/2023-abstracts)<br><em> American Society of Bone and Mineral Research, 2023 - Poster</em>.
+
+* <b>A. M. Jacobson</b>,C. A. Tastad, A. Creecy, J. M. Wallace. <br>Combined Thermoneutral Housing and
+Raloxifene Treatment Improves Trabecular Bone Microarchitecture and Strength in
+Growing Female Mice,<br><em>Biomedical Engineering Society, 2022. - Poster</em>.
+
+* <b>A. M. Jacobson</b>,C. A. Tastad, A. Creecy, J. M. Wallace. <br>Combined Thermoneutral Housing and
+Raloxifene Treatment Improves Trabecular Bone Microarchitecture and Strength in
+Growing Female Mice,<br><em>Purdue Virtual Showcase, 2022. - Poster</em>.
+
+
 
