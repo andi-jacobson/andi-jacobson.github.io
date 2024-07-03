@@ -44,6 +44,9 @@ Characterizing Bone Mineral Density and Cortical Porosity: Comparing Ultrashort 
 Stack Shift Correction of Multistack HR-pqCT Scans of the Metatarsals,
 (https://www.asbmr.org/meetings/2023-abstracts)<br><em> American Society of Bone and Mineral Research, 2023 - Poster</em>.
 
+* <b>A. M. Jacobson</b>, M. Holland, S. Miller, S. Petranek, <br>The Art of Imaging Exhibit at the 2022 RSNA Learning Center,
+* <br><em>Chicago, IL, November 2022</em>.
+
 * <b>A. M. Jacobson</b>,C. A. Tastad, A. Creecy, J. M. Wallace. <br>Combined Thermoneutral Housing and
 Raloxifene Treatment Improves Trabecular Bone Microarchitecture and Strength in
 Growing Female Mice,<br><em>Biomedical Engineering Society, 2022. - Poster</em>.
