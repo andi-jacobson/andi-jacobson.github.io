@@ -28,15 +28,6 @@ author_profile: true
 
 ---
 
-## Invited Talks
-
-**Diffusion-T₂ for Investigating White Matter Components in ADRD Ex Vivo Brain Samples**
-
-- Michigan Institute for Imaging Technology and Translation Lab (MIITT). January 2026.
-- BIONICS and BME Student Seminar Series. March 2026.
-
----
-
 ## Conference Proceedings, Posters, and Abstracts
 
 1. Murguia, A., **Jacobson, A.**, Swanson, S. D., Scheven, U., Nielsen, J. F., Fessler, J. A., Seraji-Bozorgzad, N. **Comparison of myelin-sensitive quantitative MR and histological markers in Alzheimer’s disease tissue samples.** Accepted to the *34th Annual Meeting of the ISMRM*. May 2026, Cape Town, South Africa.
